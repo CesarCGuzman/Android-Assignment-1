@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assignment_1</string>
+    <string name="resetBtn">Reset</string>
+    <string name="calcBtn">Calculate</string>
+    <string name="titleLabel">Tip Calculator</string>
+    <string name="billValLabel">Bill Value:</string>
+    <string name="BInputHint">Enter Bill Value</string>
+    <string name="tipPerLabel">Tip %:</string>
+    <string name="tenPerRadio">10%</string>
+    <string name="fifteenPerRadio">15%</string>
+    <string name="eighteenPerRadio">18%</string>
+    <string name="customRadio">Custom</string>
+    <string name="customPerSeekLabel">Custom %:</string>
+    <string name="seekBarValue">25%</string>
+    <string name="tipValLabel">Tip:</string>
+    <string name="totalValLabel">Total:</string>
+</resources>
